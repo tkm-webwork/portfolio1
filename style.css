@@ -134,7 +134,7 @@ a:hover {
 # top
 =================================================================*/
 .top {
-  background: url(./img/main-vsual-nontitle.png);
+  background: url(img/main-vsual-nontitle.png);
   background-size: cover;
   padding: 80px 0;
 }
